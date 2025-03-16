@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Ethereum Virtual Machine File System (EVMFS) file dowloader
+Comment=Download a file from the Ethereum Virtual Machine File System.
+Type=Application
+Exec=evmfs-get-zenity
+Icon=folder-download-symbolic
+Terminal=false
+Categories=Internet;
+Keywords=EVMFS
+
+X-Desktop-File-Install-Version=0.26
