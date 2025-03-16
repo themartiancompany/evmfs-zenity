@@ -63,7 +63,7 @@ install-doc:
 	install \
 	  -vDm644 \
 	  "media/evmfs-get-zenity.jpg" \
-	  "$(DOC_DIR)/media/evmfs-get-zenity.jpg
+	  "$(DOC_DIR)/media/evmfs-get-zenity.jpg"
 
 install-man:
 
